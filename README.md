@@ -12,6 +12,6 @@ Also there you can filter the Word pool for the amount of unique letters (the fe
 And after the selection of the unique letters, you can filter by word-length.
 This function will define the word, that will be used by the game. The word will only be changed, if you run this function again.
 
-##Starting the actual Game:
+## Starting the actual Game:
 The `game()` function will start the execution of the actual game.
 After each round you will have to rerun the `get_word()` function again, to get a new word, before rerunning the `game()` - function
